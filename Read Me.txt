@@ -1,0 +1,39 @@
+CS 546  Fall 2017 Final Project
+
+Project Title :- 
+Construction Project Cost Estimation
+
+Project Demo Link:    https://youtu.be/yi7u-8JQCfs
+
+Type of Users: Vendors and Estimators 
+
+List of Vendors in seed file:
+
+	1. Email :- cbhikadi@stevens.edu
+    	    Password :- Charmi12
+	2. Email :-  megh12@stevens.edu
+    	    Password :- Megh12
+	3. Email :- maulik12@stevens.edu
+         	    Password :- Maulik12
+
+List of Estimators in seed file:
+
+	1. Email :- rima12@stevens.edu
+   	    Password :- Rima12
+	2. Email :- brijesh12@stevens.edu
+   	    Password :- Brijesh12
+	3. Email :- phill12@stevens.edu
+ 	    Password :- Phill12
+
+Steps to Run:
+
+0 -> start mongodb (if required)
+1 -> npm install
+2 -> npm run seed
+3 -> npm start
+4 -> explore localhost:3000
+
+Terms covered:
+
+Express.js, Node.js, MongoDB, HTML5, CSS3, JavaScript, AJAX, JQuery, Accessibility Check, Media Query (Laptop, Mobile, Printing), HTML Validation, Cross Site Scripting Validation
+
